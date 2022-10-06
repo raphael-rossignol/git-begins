@@ -1,2 +1,3 @@
 Cloner un repo = git clone https://github.com/{prenom-nom}/{nom de votre repository}.git
 Commandes push = git push -u origin main --force // --all // --tags
+Commande pull = git pull
